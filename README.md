@@ -27,8 +27,6 @@ I have been learning code for 3 years and learning Frameworks like ReactJs, Fire
 
 <b>My GitHub Stats</b>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
 <a href="http://www.github.com/Ayush2395"><img src="https://github-readme-stats.vercel.app/api?username=Ayush2395&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayush2395's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ayush2395"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2395&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -36,3 +34,7 @@ I have been learning code for 3 years and learning Frameworks like ReactJs, Fire
 <a href="http://www.github.com/Ayush2395"><img src="https://activity-graph.herokuapp.com/graph?username=Ayush2395&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Ayush2395" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2395&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Contribution
+
+![snake gif](https://github.com/Ayush2395/Ayush2395/blob/output/github-contribution-grid-snake.gif)
